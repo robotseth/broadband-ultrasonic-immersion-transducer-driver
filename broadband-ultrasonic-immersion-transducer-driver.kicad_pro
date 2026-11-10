@@ -487,11 +487,11 @@
   "libraries": {
     "pinned_footprint_libs": [],
     "pinned_symbol_libs": [
-      "TEMPLATE"
+      "broadband-ultrasonic-immersion-transducer-driver"
     ]
   },
   "meta": {
-    "filename": "TEMPLATE.kicad_pro",
+    "filename": "broadband-ultrasonic-immersion-transducer-driver.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -658,8 +658,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "TEMPLATE.kicad_sch",
-        "name": "TEMPLATE",
+        "filename": "broadband-ultrasonic-immersion-transducer-driver.kicad_sch",
+        "name": "broadband-ultrasonic-immersion-transducer-driver",
         "uuid": "4970948f-67a6-4546-afb8-b093867775ad"
       }
     ],
@@ -669,7 +669,7 @@
   "sheets": [
     [
       "4970948f-67a6-4546-afb8-b093867775ad",
-      "TEMPLATE"
+      "broadband-ultrasonic-immersion-transducer-driver"
     ]
   ],
   "text_variables": {},

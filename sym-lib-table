@@ -1,4 +1,4 @@
 (sym_lib_table
   (version 7)
-  (lib (name "TEMPLATE")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/TEMPLATE.kicad_sym")(options "")(descr ""))
+  (lib (name "broadband-ultrasonic-immersion-transducer-driver")(type "KiCad")(uri "${KIPRJMOD}/libs/symbols/broadband-ultrasonic-immersion-transducer-driver.kicad_sym")(options "")(descr ""))
 )
