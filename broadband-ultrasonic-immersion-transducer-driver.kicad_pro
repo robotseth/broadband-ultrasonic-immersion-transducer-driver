@@ -485,7 +485,9 @@
     }
   },
   "libraries": {
-    "pinned_footprint_libs": [],
+    "pinned_footprint_libs": [
+      "broadband-ultrasonic-immersion-transducer-driver"
+    ],
     "pinned_symbol_libs": [
       "broadband-ultrasonic-immersion-transducer-driver"
     ]
@@ -528,7 +530,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "fabrication/gerbers/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -663,7 +665,7 @@
         "uuid": "4970948f-67a6-4546-afb8-b093867775ad"
       }
     ],
-    "used_designators": "U1",
+    "used_designators": "U1,R1-2,R4-5,R7-11,IC1,J1-4,D1-6,#PWR1-16,C1-7,H1-4",
     "variants": []
   },
   "sheets": [
